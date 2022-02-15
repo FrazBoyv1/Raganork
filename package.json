@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "https://github.com/FrazBoyv1/Raganork.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "Raganork / @FrazBoyv1",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/FrazBoyv1/Raganork/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/FrazBoyv1/Raganork#readme",
   "dependencies": {
     "raganork-bot": "1.7.7",
     "supervisor": "0.12.0",
